@@ -91,7 +91,7 @@ nav{
 .kuhni .about_right p{
     max-width: 420px;
 }
-.kuhni .about_right button{
+.button-click{
     margin-top: 40px;
     padding: 23px 46px 23px 46px;
     background: #E84E0E;
@@ -209,6 +209,22 @@ nav{
 .eyes img{
     margin-top:70px;
 }
+.left-img img{
+    width:500px;
+}
+.right-text{
+    margin-left:40px;
+    max-width: 400px;
+    text-align: left;
+}
+.right-text h2{
+    padding-top: 50px;
+}
+.right-text li{
+   
+    padding-top:20px;
+    padding-bottom: 10px;
+}
 
 
 @media screen and (max-width: 1200px) {
@@ -290,6 +306,17 @@ nav{
 
     .first_block {
         height: 670px;
+    }
+    .left-img img{
+        width:400px;
+    }
+    .tehnika .kuhni {
+        flex-direction: column;
+        align-items: center;
+    }
+    .right-text{
+        text-align: center;
+        margin-left: 0px;
     }
 
 }
