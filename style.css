@@ -92,11 +92,9 @@ nav{
     max-width: 420px;
 }
 .button-click{
-    margin-top: 40px;
     padding: 23px 46px 23px 46px;
     background: #E84E0E;
     color:white;
-    border:0px;
    }
 
 .kuhni .about_left{
@@ -224,6 +222,9 @@ nav{
    
     padding-top:20px;
     padding-bottom: 10px;
+}
+.button-div{
+    padding-top: 40px;
 }
 
 
