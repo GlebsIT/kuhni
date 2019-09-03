@@ -163,21 +163,20 @@ nav{
 .block_do_it{
     text-align:center;
 }
-.block_do_it h1{
-    padding-bottom: 20px;
-    padding-top:20px;
+.block_do_it h2{
+    padding-bottom: 50px;
+    padding-top:50px;
+}
+.our_project h2{
+    padding-bottom: 40px;
+    padding-top:40px;
 }
 .karta{
     text-align: center;         
 }
-
-.karta h1{
-    padding-top:20px;
-    padding-bottom: 10px;
-}
 .karta h2{
-    padding-top:10px;
-    padding-bottom: 30px;
+    padding-top:40px;
+    padding-bottom: 10px;
 }
 .konez{
     color:white;
@@ -191,7 +190,10 @@ nav{
 }
 .tehnika{
     text-align: center;
-    padding-top: 50px;
+}
+.tehnika h2{
+    padding-bottom:30px;
+    padding-top: 40px;
 }
 .eyes{
     position: relative;
